@@ -1,1 +1,6 @@
 requests
+fastapi
+uvicorn
+beautifulsoup4
+html2text
+numpy
